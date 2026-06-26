@@ -15,7 +15,13 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 Live Demo
+[View Live Site](https://neuralflow-ai.netlify.app)
+
+## 🎥 Demo Video
+[Watch Demo](https://drive.google.com/file/d/1_j_e7z-hoN9a4qdQ7Gll4ylesncyWF1C/view?usp=sharing)
+
+Open (https://strong-sprite-a50213.netlify.app/) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
@@ -39,3 +45,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 # neuralflow-ai
 I-powered data automation platform — Built for FB Hackathon Round 1
 >>>>>>> e77f8f99841e944df994d953d8329dac3fe67647
+
